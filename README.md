@@ -1,14 +1,16 @@
 # Proactive-Remediation-Scripts
 
+Author: [womprs](https://github.com/womprs)
+
 This repository contains a collection of PowerShell scripts designed for proactive remediation in Microsoft Intune. These scripts are used to identify and fix configuration errors in Intune-managed devices.
 
 ## What are Proactive Remediation Scripts?
 
-Proactive remediation scripts are automation scripts that help maintain the desired state of devices managed by Intune. They are used to detect and resolve configuration issues before they cause any significant problems. These scripts can be scheduled to run periodically or triggered based on specific events or conditions.
+Proactive remediation scripts are automation scripts written in PowerShell that help maintain the desired state of devices managed by Intune. They are used to detect and resolve configuration issues before they cause any significant problems. These scripts can be scheduled to run periodically or triggered based on specific events or conditions.
 
 ## Purpose of this Repository
 
-The purpose of this repository is to provide a centralized location for sharing pre-built proactive remediation scripts for Microsoft Intune. By sharing these scripts, we aim to help IT administrators and Intune users save time and effort in creating their own scripts from scratch. You can find a variety of scripts in this repository that address common configuration errors and provide solutions for them.
+The purpose of this repository is to provide a centralized location for sharing pre-built proactive remediation scripts written in PowerShell for Microsoft Intune. By sharing these scripts, we aim to help IT administrators and Intune users save time and effort in creating their own scripts from scratch. You can find a variety of scripts in this repository that address common configuration errors and provide solutions for them.
 
 ## How to Use the Scripts
 
@@ -17,7 +19,7 @@ To use the scripts in this repository, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the Intune management portal.
 3. Navigate to the "Scripts" section.
-4. Create a new script and copy the content of the desired script from this repository.
+4. Create a new script and copy the content of the desired PowerShell script from this repository.
 5. Customize the script if necessary, based on your specific requirements.
 6. Save the script and assign it to the appropriate devices or groups in Intune.
 
